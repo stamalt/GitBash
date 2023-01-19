@@ -1,1 +1,1 @@
-# GitSash
+# GitBash
